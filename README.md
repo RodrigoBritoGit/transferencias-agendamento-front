@@ -27,13 +27,11 @@ Este repositório contém a implementação do **frontend** para o sistema de ag
    ```
 
 2. **Instale as dependências**:
-   **Dependências**:
    ```bash
    npm install
    ```
 
 3. **Instale o axios**:
-   Axios:
    ```bash
    npm install axios
    ```
